@@ -11,4 +11,4 @@ Together, let's embark on an enriching open-source journey!
 Feel free to ask questions in our [organization discussions](https://github.com/orgs/PickwickSoft/discussions) and lend a hand to others in solving their problems. Ensure that you adhere to our [Code of Conduct](https://github.com/PickwickSoft/conventions/blob/main/CODE_OF_CONDUCT.md) to foster a peaceful and welcoming community!
 
 ### 🍺 Hacktoberfest 2023
-We're excited to announce our participation in Hacktoberfest 2023 with our [pystreamapi](https://github.com/PickwickSoft/pystreamapi) project. Simply visit the repository and select an issue to work on! Don't forget to follow the contributing guidelines for a seamless experience…
+We're excited to announce our participation in Hacktoberfest 2023 with our [pystreamapi](https://github.com/PickwickSoft/pystreamapi) project. Simply visit the repository and select an issue to work on! Don't forget to follow the [contributing guidelines](https://github.com/PickwickSoft/pystreamapi/blob/main/CONTRIBUTING.md) for a seamless experience…
