@@ -1,4 +1,4 @@
-![profile banner](./banner.png)
+![profile banner](https://github.com/PickwickSoft/.github/blob/main/profile/banner.png)
 We are thrilled to have you here! PickwickSoft is the personal open-source software organization of [@garlontas](https://github.com/garlontas), dedicated to crafting magical software…
 
 Join our community by contributing code, enhancing documentation, or reporting bugs and feature requests. Help us by providing answers to fellow community members in our various GitHub Discussions!
